@@ -1,6 +1,6 @@
 ### Yoooo this is a WIP : )
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png)](https://www.linkedin.com/in/veliniel01/)
+<!-- -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
