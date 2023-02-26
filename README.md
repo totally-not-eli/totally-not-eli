@@ -1,4 +1,4 @@
-# Eliniel Valdez 
+# Hi! I'm Eli, you can address me as Li, El or E-Lie 
 ## I break stuff and mostly just code in py, rust, golang. I dabble on the backend side of things because that's where the interesting part happens. That is where the magic happens.
 
 <!-- -->
