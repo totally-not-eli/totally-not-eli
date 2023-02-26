@@ -1,6 +1,6 @@
 # Hi! I'm Eli, you can address me as Li, El or E-Lie 
 ## I break and rebuild stuff and mostly just code in py, rust, golang. I dabble on the backend side of things because that's where the interesting part happens. That is where the magic happens.
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- -->
 
 🔭 I’m currently working on Crawlers and pretty much looking for the most optimized way to retrieve data and/or news.
