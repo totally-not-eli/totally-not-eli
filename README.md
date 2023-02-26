@@ -1,4 +1,5 @@
-### Yoooo this is a WIP : )
+# Eliniel Valdez 
+## I break stuff and mostly just code in py, rust, golang. I dabble on the backend side of things because that's where the interesting part happens. That is where the magic happens.
 
 <!-- -->
 
