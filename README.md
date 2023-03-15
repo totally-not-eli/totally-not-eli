@@ -14,5 +14,4 @@
 - ⚡ Fun fact: ... -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=totally-not-eli&count_private=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=totally-not-eli)](https://github.com/anuraghazra/github-readme-stats)
 
