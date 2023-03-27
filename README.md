@@ -13,4 +13,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=totally-not-eli)](https://github.com/ryo-ma/github-profile-trophy)
