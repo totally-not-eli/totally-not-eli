@@ -13,3 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<div>
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=totally-not-eli&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=totally-not-eli&layout=compact" />
+  </div>
