@@ -8,7 +8,7 @@ I'm a backend developer specializing in data engineering and distributed systems
 - Rust
 - Golang
 
-I thrive in backend development because I enjoy architecting systems that handle complex data flows and solving challenging engineering problems.
+I thrive in backend development because I enjoy architecting systems that handle complex data flows and solving challenging engineering problems. I also dabble in FE whenever it's needed. I try to structure it based on what's already existing though : D.
 
 ## 🔨 What I Do
 
