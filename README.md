@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Eli
 
-> Data & Backend Engineer crafting robust systems that scale.
+> Data & Full Stack Engineer crafting robust systems that scale. (I do a heck-ton of DevOps)
 
 ## 🛠️ About Me
-I'm a backend developer specializing in data engineering and distributed systems. My expertise lies in:
+I'm a Full Stack Engineer specializing in data engineering and distributed systems. My expertise lies in:
 - Python
 - Rust
 - Golang
